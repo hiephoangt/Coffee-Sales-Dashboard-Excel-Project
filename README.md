@@ -26,22 +26,25 @@ The goal is to provide a visual analysis of coffee sales data using Excel. The i
    <p align="center">
      <img src="https://raw.githubusercontent.com/hiephoangt/Coffee-Sales-Dashboard-Excel-Project/main/Image/Total_Sales_Over_Time.png" width="500"/>
    </p>
-   - The "Total Sales Over Time" chart shows the sales revenue of coffee types **Arabica**, **Excelsa**, **Liberica**, and **Robusta** over time.
-   - There was a sharp increase in sales for **Excelsa** coffee around **mid-2021** and for **Robusta** in **early 2022**, indicating significant shifts in demand during these periods.
+ - The "Total Sales Over Time" chart shows the sales revenue of coffee types **Arabica**, **Excelsa**, **Liberica**, and **Robusta** over time. 
+ - There was a sharp increase in sales for **Arabica** coffee around **mid-2021** and for **Liberica** in **early 2022**, indicating significant shifts in demand during these periods.
+
 
 2. **Top 5 Customers**:
    <p align="center">
      <img src="https://raw.githubusercontent.com/hiephoangt/Coffee-Sales-Dashboard-Excel-Project/main/Image/Top_5_Customer.png" width="500"/>
    </p>
-   - **Allis Willmore** is the top customer, with total purchases of **$317**.
-   - The other top 5 customers have sales ranging from **$278** to **$307**.
+- **Allis Willmore** is the top customer, with total purchases of **$317**. 
+- The other top 5 customers have sales ranging from **$278** to **$307**.
+
 
 3. **Sales by Country**:
    <p align="center">
      <img src="https://raw.githubusercontent.com/hiephoangt/Coffee-Sales-Dashboard-Excel-Project/main/Image/Sales_By_Country.png" width="500"/>
    </p>
-   - **United States** is the largest market, contributing **$35,639** in sales, which accounts for the majority of the revenue.
-   - **Ireland** and **United Kingdom** follow with **$6,597** and **$2,779**, respectively.
+- **United States** is the largest market, contributing **$35,639** in sales, which accounts for the majority of the revenue. 
+- **Ireland** and **United Kingdom** follow with **$6,597** and **$2,779**, respectively.
 
-## Conclusion:
-The dashboard provides a clear visualization of sales trends, key customers, and revenue distribution by country.
+
+## How to View
+To view the dashboards, you can access the Excel workbook at the following link: [Coffee Sales Dashboard](https://github.com/hiephoangt/Coffee-Sales-Dashboard-Excel-Project/blob/main/coffeeOrdersDashBoard.xlsb.xlsx).
